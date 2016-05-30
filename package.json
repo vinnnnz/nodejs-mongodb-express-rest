@@ -1,0 +1,16 @@
+{
+  "name": "BookInventory",
+  "version": "0.0.0",
+  "description": "Book inventory rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vineet Kumar",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~4.13.4",
+    "mongoose": "~4.4.19",
+    "body-parser": "~1.15.1"
+  }
+}
